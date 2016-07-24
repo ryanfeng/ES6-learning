@@ -3,10 +3,6 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="JsBowerSettings">
-    <exe-path>C:\Users\wb-fkc215799\AppData\Roaming\npm\bower.cmd</exe-path>
-    <config-path />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -43,19 +39,4 @@
     <xml-schema-version>XMLSchema_1_1</xml-schema-version>
   </component>
   <component name="ProjectRootManager" version="2" />
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
 </project>
